@@ -1,37 +1,39 @@
-[
-  {
-    "id": 1,
-    "type": "Virus – Strawberry nucleic acid casein virus",
-    "testResult": "false",
-    "testValue": "",
-    "unit": ""
-  },
-  {
-    "id": 1,
-    "type": "Virus – Strawberry nucleic acid casein virus",
-    "testResult": "false",
-    "testValue": "",
-    "unit": ""
-  },
-  {
-    "id": 1,
-    "type": "Virus – Strawberry nucleic acid casein virus",
-    "testResult": "false",
-    "testValue": "",
-    "unit": ""
-  },
-  {
-    "id": 1,
-    "type": "Virus – Strawberry nucleic acid casein virus",
-    "testResult": "false",
-    "testValue": "",
-    "unit": ""
-  },
-  {
-    "id": 1,
-    "type": "Virus – Strawberry nucleic acid casein virus",
-    "testResult": "false",
-    "testValue": "",
-    "unit": ""
-  }
-]
+{
+  result: [
+    {
+      "id": 1,
+      "type": "Virus – Strawberry nucleic acid casein virus",
+      "testResult": "false",
+      "testValue": "",
+      "unit": ""
+    },
+    {
+      "id": 1,
+      "type": "Virus – Strawberry nucleic acid casein virus",
+      "testResult": "false",
+      "testValue": "",
+      "unit": ""
+    },
+    {
+      "id": 1,
+      "type": "Virus – Strawberry nucleic acid casein virus",
+      "testResult": "false",
+      "testValue": "",
+      "unit": ""
+    },
+    {
+      "id": 1,
+      "type": "Virus – Strawberry nucleic acid casein virus",
+      "testResult": "false",
+      "testValue": "",
+      "unit": ""
+    },
+    {
+      "id": 1,
+      "type": "Virus – Strawberry nucleic acid casein virus",
+      "testResult": "false",
+      "testValue": "",
+      "unit": ""
+    }
+  ]
+}
