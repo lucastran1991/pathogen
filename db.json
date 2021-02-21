@@ -3,22 +3,29 @@
       {
          "id":1,
          "type":"Virus – Strawberry nucleic acid casein virus",
-         "testResult":false
+         "testResult":false,
+         "testValue":"",
+         "unit":""
       },
       {
          "id":1,
          "type":"Bacteria – Simulated Staphylococcus aureus",
-         "testResult":true
+         "testResult":true,
+         "testValue":"",
+         "unit":""
       },
       {
          "id":1,
          "type":"Fungi – Simulated Aspergillus sp",
-         "testResult":true
+         "testResult":true,
+         "testValue":"",
+         "unit":""
       },
       {
          "id":4,
          "type":"Pathogen Biosafety Level",
          "testResult":true,
+         "testValue":"",
          "unit":"BSL-1"
       },
       {
@@ -32,19 +39,22 @@
          "id":6,
          "type":"Pathogen Count",
          "testResult":true,
-         "testValue":"3"
+         "testValue":"3",
+         "unit":""
       },
       {
          "id":7,
          "type":"Ambient Light Level",
          "testResult":true,
-         "testValue":"2"
+         "testValue":"2",
+         "unit":""
       },
       {
          "id":8,
          "type":"Air Quality Index (AQI)",
          "testResult":true,
-         "testValue":"136"
+         "testValue":"136",
+         "unit":""
       },
       {
          "id":9,
@@ -71,7 +81,8 @@
          "id":12,
          "type":"Pollen Level",
          "testResult":true,
-         "testValue":"1"
+         "testValue":"1",
+         "unit":""
       },
       {
          "id":13,
@@ -84,7 +95,8 @@
          "id":14,
          "type":"Smoke Index",
          "testResult":true,
-         "testValue":"1"
+         "testValue":"1",
+         "unit":""
       },
       {
          "id":15,
@@ -97,7 +109,8 @@
          "id":16,
          "type":"Ultraviolet Index",
          "testResult":true,
-         "testValue":"2"
+         "testValue":"2",
+         "unit":""
       }
    ]
 }
