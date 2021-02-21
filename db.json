@@ -1,39 +1,103 @@
 {
-    "result": [
-    {
-      "id": 1,
-      "type": "Virus – Strawberry nucleic acid casein virus",
-      "testResult": false,
-      "testValue": "",
-      "unit": ""
-    },
-    {
-      "id": 1,
-      "type": "Virus – Strawberry nucleic acid casein virus",
-      "testResult": false,
-      "testValue": "",
-      "unit": ""
-    },
-    {
-      "id": 1,
-      "type": "Virus – Strawberry nucleic acid casein virus",
-      "testResult": false,
-      "testValue": "",
-      "unit": ""
-    },
-    {
-      "id": 1,
-      "type": "Virus – Strawberry nucleic acid casein virus",
-      "testResult": false,
-      "testValue": "",
-      "unit": ""
-    },
-    {
-      "id": 1,
-      "type": "Virus – Strawberry nucleic acid casein virus",
-      "testResult": false,
-      "testValue": "",
-      "unit": ""
-    }
-  ]
+   "result":[
+      {
+         "id":1,
+         "type":"Virus – Strawberry nucleic acid casein virus",
+         "testResult":false
+      },
+      {
+         "id":1,
+         "type":"Bacteria – Simulated Staphylococcus aureus",
+         "testResult":true
+      },
+      {
+         "id":1,
+         "type":"Fungi – Simulated Aspergillus sp",
+         "testResult":true
+      },
+      {
+         "id":4,
+         "type":"Pathogen Biosafety Level",
+         "testResult":true,
+         "unit":"BSL-1"
+      },
+      {
+         "id":5,
+         "type":"Pathogen Concentration",
+         "testResult":true,
+         "testValue":"149.5",
+         "unit":"ppb"
+      },
+      {
+         "id":6,
+         "type":"Pathogen Count",
+         "testResult":true,
+         "testValue":"3"
+      },
+      {
+         "id":7,
+         "type":"Ambient Light Level",
+         "testResult":true,
+         "testValue":"2"
+      },
+      {
+         "id":8,
+         "type":"Air Quality Index (AQI)",
+         "testResult":true,
+         "testValue":"136"
+      },
+      {
+         "id":9,
+         "type":"Gas",
+         "testResult":true,
+         "testValue":"CO-50",
+         "unit":"ppm"
+      },
+      {
+         "id":10,
+         "type":"Humidity",
+         "testResult":true,
+         "testValue":"45",
+         "unit":"%"
+      },
+      {
+         "id":11,
+         "type":"Particulate Matter",
+         "testResult":true,
+         "testValue":"52.7",
+         "unit":"ppm"
+      },
+      {
+         "id":12,
+         "type":"Pollen Level",
+         "testResult":true,
+         "testValue":"1"
+      },
+      {
+         "id":13,
+         "type":"Pressure",
+         "testResult":true,
+         "testValue":"30.16",
+         "unit":"inHg"
+      },
+      {
+         "id":14,
+         "type":"Smoke Index",
+         "testResult":true,
+         "testValue":"1"
+      },
+      {
+         "id":15,
+         "type":"Temperature",
+         "testResult":true,
+         "testValue":"22",
+         "unit":"°C"
+      },
+      {
+         "id":16,
+         "type":"Ultraviolet Index",
+         "testResult":true,
+         "testValue":"2"
+      }
+   ]
 }
