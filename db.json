@@ -3,14 +3,14 @@
       {
          "id":1,
          "type":"Virus – Strawberry nucleic acid casein virus",
-         "testResult":false,
+         "testResult":true,
          "testValue":"",
          "unit":""
       },
       {
          "id":1,
          "type":"Bacteria – Simulated Staphylococcus aureus",
-         "testResult":true,
+         "testResult":false,
          "testValue":"",
          "unit":""
       },
@@ -26,7 +26,7 @@
          "type":"Pathogen Biosafety Level",
          "testResult":true,
          "testValue":"",
-         "unit":"BSL-1"
+         "unit":"BSL-222"
       },
       {
          "id":5,
