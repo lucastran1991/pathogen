@@ -1,7 +1,7 @@
 {
    "result":[
       {
-         "id":10,
+         "id":9,
          "type":"Pathogen Biosafety Level",
          "testResult":false,
          "testValue":"BSL-2",
@@ -57,42 +57,42 @@
          "unit":"kO"
       },
       {
-         "id":10,
+         "id":18,
          "type":"Humidity",
          "testResult":true,
          "testValue":"30.7",
          "unit":"%"
       },
       {
-         "id":12,
+         "id":19,
          "type":"Pollen",
          "testResult":true,
          "testValue":"4",
          "unit":""
       },
       {
-         "id":13,
+         "id":20,
          "type":"Pressure",
          "testResult":true,
          "testValue":"1023.6",
          "unit":"hpa"
       },
       {
-         "id":14,
+         "id":21,
          "type":"Smoke Index",
          "testResult":true,
          "testValue":"1",
          "unit":""
       },
       {
-         "id":15,
+         "id":22,
          "type":"Temperature",
          "testResult":true,
          "testValue":"24.4",
          "unit":"°C"
       },
       {
-         "id":16,
+         "id":23,
          "type":"Ultraviolet Index",
          "testResult":true,
          "testValue":"0",
