@@ -1,56 +1,56 @@
 {
    "result":[
       {
-         "id":1,
+         "id":10,
          "type":"Pathogen Biosafety Level",
          "testResult":false,
          "testValue":"BSL-2",
          "unit":""
       },
       {
-         "id":1,
+         "id":10,
          "type":"Pathogen Count",
          "testResult":false,
          "testValue":"1",
          "unit":""
       },
       {
-         "id":1,
+         "id":11,
          "type":"Pathogen Types",
          "testResult":false,
          "testValue":"Strawberry N",
          "unit":""
       },
       {
-         "id":1,
+         "id":12,
          "type":"Pathogen Concentration in the Air",
          "testResult":false,
          "testValue":"4.1",
          "unit":"ng/m3"
       },
       {
-         "id":1,
+         "id":13,
          "type":"Pariculate Matter",
          "testResult":false,
          "testValue":"4.1",
          "unit":"ug/m3"
       },
       {
-         "id":1,
+         "id":14,
          "type":"Ambient Light Level",
          "testResult":false,
          "testValue":"162.1",
          "unit":"Lux"
       },
       {
-         "id":1,
+         "id":15,
          "type":"Air Quality Index (AQI)",
          "testResult":false,
          "testValue":"136",
          "unit":""
       },
       {
-         "id":1,
+         "id":16,
          "type":"Gas - Oxidizing, Reducing and Ammonia",
          "testResult":false,
          "testValue":"Oxid: 4.4, Redu: 448.9, NH3: 128.4",
